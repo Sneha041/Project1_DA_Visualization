@@ -1,0 +1,51 @@
+1. Descriptive Statistics:
+ - Calculate and present the average age, average experience in the current domain, and average years since joining for the entire workforce.
+
+The averages for age, experience in the current domain and years since joining have been calculated from the employee.csv dataset and have been visualized in a tabular format.
+
+2. City-wise Analysis:
+ - Explore the distribution of employees across different cities using charts or 
+maps to identify significant locations.
+
+The distribution of employees across different cities have been visualized using clustered column chart and maps. The count of employees, cities and education have been included to get a clearer analysis.The outcomes are as follows:
+a) The employees who holds the degree of bachelors are at Bangalore, New Delhi and Pune at the count of 2052, 537 and 1012 respectively.
+b) The employees who holds the degree of Masters are at Bangalore, New Delhi and Pune at the count of 124, 517 and 232 respectively.
+c) The employees who holds the degree of Ph. D are at Bangalore, New Delhi and Pune at the count of 52, 103 and 24 respectively.
+d) Bangalore had the highest total Count of Employee at 2,228, followed by Pune at 1268 and New Delhi at 1157.
+
+3.  Gender Diversity:
+ - Visualize the gender distribution within the company to understand the level 
+of gender diversity.
+
+The gender diversity has been analyzed by applying pie chart to the gender and education attibute. The outcomes are:
+a) Bachelors had the highest total Count of Employees at 3,601, followed by Masters at 873 and PHD at 179.
+b) There are 1435, 371,69 female employees in the company who completed their bachelors, masters and Ph.D respectively.
+c) There are 2166, 502, 110 male employees in the company who completed their bachelors, masters and Ph.D respectively.
+
+4. Educational Background:
+ - Analyze and present the most common degrees and institutions among 
+employees.
+
+The most common degrees and institutions among employees together as well as in separate has been visualized using clustered bar chart and bar charts. The outcomes are:
+a) The most common degree among the employees is 'Bachelors' (3601).
+b) The most common city (institution) among the employees is 'Bangalore'(2228).
+
+5. Salary Tier Analysis:
+ - Investigate the distribution of employees across different payment tiers and 
+visualize the salary distribution to identify trends.
+
+The distribution of employees across different payment tiers have been visualized through clustered column chart considering the factors like count of employees, payment tiers and years of experience to determine the salary trends. The outcomes are:
+a) Payment tier 1 contains highest count of employees (51) with 2 years of experience.
+b) Payment tier 2 contains highest count of employees (252) with 2 years of experience.
+c) Payment tier 3contains highest count of employees (784) with 2 years of experience.
+d) The count of employees with an experience of 6 to 7 years may get high salary and are less than or equal to 7 in all the payment tiers.
+
+6. Leave Analysis:
+ - Explore factors influencing leave decisions. Visualize the correlation between 
+factors like age, experience, and the decision to take leave.
+
+The factors influencing leave decisions are found to be age and years of experience and are visualized using clustered column chart and scatter plots. The correlation result and outcomes are :
+a) Count of Employees and total Count of employees with ExperienceInCurrentDomain are positively correlated with each other.
+b) The scatter plot summarizes that the maximum number of employees between the age of 30 and 41 with an experience of less than or equal to 4 years in the current domain chose the decision to take leave.
+c) The total count of employees was higher for False - not to take leave (3053) than True - to take leave (1600).The average count of employees was higher for False - not to take leave (381.63) than true - to take leave (200).
+
